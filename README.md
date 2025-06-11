@@ -2,7 +2,7 @@
 <p align="center">
   Full-stack software engineer · AI tinkerer · Sixth-form student in Surrey, UK  
   <br>
-  <a href="https://kiera.sh">Website</a> • <a href="mailto:hi@kiera.sh">Email</a> • <a href="https://github.com/kieradev">GitHub</a>
+  <a href="https://kiera.dev">Website</a> • <a href="mailto:me@kiera.dev">Email</a> • <a href="https://github.com/kieradev">GitHub</a>
 </p>
 
 ---
