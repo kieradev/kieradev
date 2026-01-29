@@ -8,10 +8,7 @@
 ---
 
 ### What I’m doing right now
-- **Exploring Novel LLM Architectures** - Testing a HRM approach to LLMs, (arXiv:2506.21734)
-- **Building MonitorThing** – an AI powered monitoring platform with AI that turns plain-English requests into system actions to detect real user issues before they happen.  
-- **Scaling TranslationThing** – a context-aware ML translation service.  
-- **Experimenting with CUDA inference** for agentic workflows as a part of MonitorThing.
+- <a href="https://autocastapp.com">autocastapp.com</a>
 
 ### Tool kit
 | Category    | Stack |
